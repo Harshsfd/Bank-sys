@@ -1,2 +1,5 @@
-# The-Sparks-Foundation-Basic-Banking-System-Internship-Project
-I was supposed to create a basic banking website for the Sparks Foundation as an internship project.
+# Basic Banking System 
+
+# Technology Used
+
+* [![PHP](https://img.shields.io/badge/PHP-8.0-blue)](https://www.php.net/)
